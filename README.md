@@ -1,5 +1,6 @@
 # The Crypto Counsel Handbook
 
+
 ## This README file provides an overview of the resources included in this collection. These files offer valuable insights and information on cryptocurrency, blockchain technology, and the regulatory landscape.
 
 1. Crypto Counsel Handbook.pdf
